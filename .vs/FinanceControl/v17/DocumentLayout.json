@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC979AD9-CD69-4154-A227-4B5459798B95}|FinanceControl.API\\FinanceControl.API.csproj|c:\\users\\mariana\\source\\repos\\financecontrol\\financecontrol.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC979AD9-CD69-4154-A227-4B5459798B95}|FinanceControl.API\\FinanceControl.API.csproj|solutionrelative:financecontrol.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC979AD9-CD69-4154-A227-4B5459798B95}|FinanceControl.API\\FinanceControl.API.csproj|c:\\users\\mariana\\source\\repos\\financecontrol\\financecontrol.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC979AD9-CD69-4154-A227-4B5459798B95}|FinanceControl.API\\FinanceControl.API.csproj|solutionrelative:financecontrol.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC979AD9-CD69-4154-A227-4B5459798B95}|FinanceControl.API\\FinanceControl.API.csproj|c:\\users\\mariana\\source\\repos\\financecontrol\\financecontrol.api\\financecontrol.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AC979AD9-CD69-4154-A227-4B5459798B95}|FinanceControl.API\\FinanceControl.API.csproj|solutionrelative:financecontrol.api\\financecontrol.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC979AD9-CD69-4154-A227-4B5459798B95}|FinanceControl.API\\FinanceControl.API.csproj|c:\\users\\mariana\\source\\repos\\financecontrol\\financecontrol.api\\documentation\\examples\\lancamentorequestexample .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC979AD9-CD69-4154-A227-4B5459798B95}|FinanceControl.API\\FinanceControl.API.csproj|solutionrelative:financecontrol.api\\documentation\\examples\\lancamentorequestexample .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC979AD9-CD69-4154-A227-4B5459798B95}|FinanceControl.API\\FinanceControl.API.csproj|c:\\users\\mariana\\source\\repos\\financecontrol\\financecontrol.api\\controllers\\lancamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC979AD9-CD69-4154-A227-4B5459798B95}|FinanceControl.API\\FinanceControl.API.csproj|solutionrelative:financecontrol.api\\controllers\\lancamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC979AD9-CD69-4154-A227-4B5459798B95}|FinanceControl.API\\FinanceControl.API.csproj|c:\\users\\mariana\\source\\repos\\financecontrol\\financecontrol.api\\dtos\\lancamentocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC979AD9-CD69-4154-A227-4B5459798B95}|FinanceControl.API\\FinanceControl.API.csproj|solutionrelative:financecontrol.api\\dtos\\lancamentocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC432E0-075C-4F6A-B68B-7BBE6B819549}|FinanceControl.Infrastructure\\FinanceControl.Infrastructure.csproj|c:\\users\\mariana\\source\\repos\\financecontrol\\financecontrol.infrastructure\\repositories\\lancamentorepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC432E0-075C-4F6A-B68B-7BBE6B819549}|FinanceControl.Infrastructure\\FinanceControl.Infrastructure.csproj|solutionrelative:financecontrol.infrastructure\\repositories\\lancamentorepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC241F5D-F276-4D35-BFB7-168522214F7B}|FinanceControl.Application\\FinanceControl.Application.csproj|c:\\users\\mariana\\source\\repos\\financecontrol\\financecontrol.application\\services\\lancamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC241F5D-F276-4D35-BFB7-168522214F7B}|FinanceControl.Application\\FinanceControl.Application.csproj|solutionrelative:financecontrol.application\\services\\lancamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99690760-A14B-424C-AF21-4FC543EBCEED}|FinanceControl.Domain\\FinanceControl.Domain.csproj|c:\\users\\mariana\\source\\repos\\financecontrol\\financecontrol.domain\\interfaces\\ilancamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99690760-A14B-424C-AF21-4FC543EBCEED}|FinanceControl.Domain\\FinanceControl.Domain.csproj|solutionrelative:financecontrol.domain\\interfaces\\ilancamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC979AD9-CD69-4154-A227-4B5459798B95}|FinanceControl.API\\FinanceControl.API.csproj|c:\\users\\mariana\\source\\repos\\financecontrol\\financecontrol.api\\dtos\\lancamentoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC979AD9-CD69-4154-A227-4B5459798B95}|FinanceControl.API\\FinanceControl.API.csproj|solutionrelative:financecontrol.api\\dtos\\lancamentoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC979AD9-CD69-4154-A227-4B5459798B95}|FinanceControl.API\\FinanceControl.API.csproj|c:\\users\\mariana\\source\\repos\\financecontrol\\financecontrol.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC979AD9-CD69-4154-A227-4B5459798B95}|FinanceControl.API\\FinanceControl.API.csproj|solutionrelative:financecontrol.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99690760-A14B-424C-AF21-4FC543EBCEED}|FinanceControl.Domain\\FinanceControl.Domain.csproj|c:\\users\\mariana\\source\\repos\\financecontrol\\financecontrol.domain\\entities\\lancamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99690760-A14B-424C-AF21-4FC543EBCEED}|FinanceControl.Domain\\FinanceControl.Domain.csproj|solutionrelative:financecontrol.domain\\entities\\lancamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC979AD9-CD69-4154-A227-4B5459798B95}|FinanceControl.API\\FinanceControl.API.csproj|c:\\users\\mariana\\source\\repos\\financecontrol\\financecontrol.api\\financecontrol.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC979AD9-CD69-4154-A227-4B5459798B95}|FinanceControl.API\\FinanceControl.API.csproj|solutionrelative:financecontrol.api\\financecontrol.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.API\\appsettings.json",
+              "RelativeDocumentMoniker": "FinanceControl.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.API\\appsettings.json",
+              "RelativeToolTip": "FinanceControl.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T01:23:15.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.API\\Program.cs",
+              "RelativeDocumentMoniker": "FinanceControl.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.API\\Program.cs",
+              "RelativeToolTip": "FinanceControl.API\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:22:58.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinanceControl.API.http",
+              "DocumentMoniker": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.API\\FinanceControl.API.http",
+              "RelativeDocumentMoniker": "FinanceControl.API\\FinanceControl.API.http",
+              "ToolTip": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.API\\FinanceControl.API.http",
+              "RelativeToolTip": "FinanceControl.API\\FinanceControl.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-09T01:14:10.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LancamentoRequestExample .cs",
+              "DocumentMoniker": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.API\\Documentation\\Examples\\LancamentoRequestExample .cs",
+              "RelativeDocumentMoniker": "FinanceControl.API\\Documentation\\Examples\\LancamentoRequestExample .cs",
+              "ToolTip": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.API\\Documentation\\Examples\\LancamentoRequestExample .cs",
+              "RelativeToolTip": "FinanceControl.API\\Documentation\\Examples\\LancamentoRequestExample .cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:05:29.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LancamentoUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.API\\Dtos\\LancamentoUpdateDto.cs",
+              "RelativeDocumentMoniker": "FinanceControl.API\\Dtos\\LancamentoUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.API\\Dtos\\LancamentoUpdateDto.cs",
+              "RelativeToolTip": "FinanceControl.API\\Dtos\\LancamentoUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:08:03.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILancamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.Domain\\Interfaces\\ILancamentoRepository.cs",
+              "RelativeDocumentMoniker": "FinanceControl.Domain\\Interfaces\\ILancamentoRepository.cs",
+              "ToolTip": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.Domain\\Interfaces\\ILancamentoRepository.cs",
+              "RelativeToolTip": "FinanceControl.Domain\\Interfaces\\ILancamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:48:11.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LancamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.Application\\Services\\LancamentoService.cs",
+              "RelativeDocumentMoniker": "FinanceControl.Application\\Services\\LancamentoService.cs",
+              "ToolTip": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.Application\\Services\\LancamentoService.cs",
+              "RelativeToolTip": "FinanceControl.Application\\Services\\LancamentoService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:46:18.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LancamentoRepository .cs",
+              "DocumentMoniker": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.Infrastructure\\Repositories\\LancamentoRepository .cs",
+              "RelativeDocumentMoniker": "FinanceControl.Infrastructure\\Repositories\\LancamentoRepository .cs",
+              "ToolTip": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.Infrastructure\\Repositories\\LancamentoRepository .cs",
+              "RelativeToolTip": "FinanceControl.Infrastructure\\Repositories\\LancamentoRepository .cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAcwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:39:50.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LancamentoCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.API\\Dtos\\LancamentoCreateDto.cs",
+              "RelativeDocumentMoniker": "FinanceControl.API\\Dtos\\LancamentoCreateDto.cs",
+              "ToolTip": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.API\\Dtos\\LancamentoCreateDto.cs",
+              "RelativeToolTip": "FinanceControl.API\\Dtos\\LancamentoCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:37:25.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FinanceControl.API",
+              "DocumentMoniker": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.API\\FinanceControl.API.csproj",
+              "RelativeDocumentMoniker": "FinanceControl.API\\FinanceControl.API.csproj",
+              "ToolTip": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.API\\FinanceControl.API.csproj",
+              "RelativeToolTip": "FinanceControl.API\\FinanceControl.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T00:36:56.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Lancamento.cs",
+              "DocumentMoniker": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.Domain\\Entities\\Lancamento.cs",
+              "RelativeDocumentMoniker": "FinanceControl.Domain\\Entities\\Lancamento.cs",
+              "ToolTip": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.Domain\\Entities\\Lancamento.cs",
+              "RelativeToolTip": "FinanceControl.Domain\\Entities\\Lancamento.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:35:59.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LancamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.API\\Controllers\\LancamentoController.cs",
+              "RelativeDocumentMoniker": "FinanceControl.API\\Controllers\\LancamentoController.cs",
+              "ToolTip": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.API\\Controllers\\LancamentoController.cs",
+              "RelativeToolTip": "FinanceControl.API\\Controllers\\LancamentoController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:33:41.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.API\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "FinanceControl.API\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Mariana\\source\\repos\\FinanceControl\\FinanceControl.API\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "FinanceControl.API\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:33:39.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

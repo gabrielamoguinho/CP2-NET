@@ -1,0 +1,15 @@
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Application\bin\Debug\net9.0\FinanceControl.Application.deps.json
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Application\bin\Debug\net9.0\FinanceControl.Application.dll
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Application\bin\Debug\net9.0\FinanceControl.Application.pdb
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Application\bin\Debug\net9.0\FinanceControl.Domain.dll
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Application\bin\Debug\net9.0\FinanceControl.Domain.pdb
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Application\obj\Debug\net9.0\FinanceControl.Application.csproj.AssemblyReference.cache
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Application\obj\Debug\net9.0\FinanceControl.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Application\obj\Debug\net9.0\FinanceControl.Application.AssemblyInfoInputs.cache
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Application\obj\Debug\net9.0\FinanceControl.Application.AssemblyInfo.cs
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Application\obj\Debug\net9.0\FinanceControl.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Application\obj\Debug\net9.0\FinanceC.699E4819.Up2Date
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Application\obj\Debug\net9.0\FinanceControl.Application.dll
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Application\obj\Debug\net9.0\refint\FinanceControl.Application.dll
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Application\obj\Debug\net9.0\FinanceControl.Application.pdb
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Application\obj\Debug\net9.0\ref\FinanceControl.Application.dll

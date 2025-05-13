@@ -1,0 +1,7 @@
+C:\Users\Mariana\source\repos\FinanceControl\obj\Debug\net9.0\FinanceControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\source\repos\FinanceControl\obj\Debug\net9.0\FinanceControl.AssemblyInfoInputs.cache
+C:\Users\Mariana\source\repos\FinanceControl\obj\Debug\net9.0\FinanceControl.AssemblyInfo.cs
+C:\Users\Mariana\source\repos\FinanceControl\obj\Debug\net9.0\FinanceControl.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\source\repos\FinanceControl\obj\Debug\net9.0\FinanceControl.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mariana\source\repos\FinanceControl\obj\Debug\net9.0\FinanceControl.csproj.AssemblyReference.cache
+C:\Users\Mariana\source\repos\FinanceControl\obj\Debug\net9.0\FinanceControl.MvcApplicationPartsAssemblyInfo.cs

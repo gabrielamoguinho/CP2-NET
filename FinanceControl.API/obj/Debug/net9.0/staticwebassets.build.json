@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/96XWMM8N8cRW18Fk5sraF2O9afANrLU6c0UTcdxMWM=",
+  "Source": "FinanceControl.API",
+  "BasePath": "_content/FinanceControl.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

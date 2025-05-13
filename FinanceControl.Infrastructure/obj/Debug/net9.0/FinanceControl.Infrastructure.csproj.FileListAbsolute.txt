@@ -1,0 +1,17 @@
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Infrastructure\obj\Debug\net9.0\FinanceControl.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Infrastructure\obj\Debug\net9.0\FinanceControl.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Infrastructure\obj\Debug\net9.0\FinanceControl.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Infrastructure\obj\Debug\net9.0\FinanceControl.Infrastructure.AssemblyInfo.cs
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Infrastructure\obj\Debug\net9.0\FinanceControl.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Infrastructure\bin\Debug\net9.0\FinanceControl.Infrastructure.deps.json
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Infrastructure\bin\Debug\net9.0\FinanceControl.Infrastructure.runtimeconfig.json
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Infrastructure\bin\Debug\net9.0\FinanceControl.Infrastructure.dll
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Infrastructure\bin\Debug\net9.0\FinanceControl.Infrastructure.pdb
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Infrastructure\bin\Debug\net9.0\FinanceControl.Domain.dll
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Infrastructure\bin\Debug\net9.0\FinanceControl.Domain.pdb
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Infrastructure\obj\Debug\net9.0\FinanceC.6FBE02E6.Up2Date
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Infrastructure\obj\Debug\net9.0\FinanceControl.Infrastructure.dll
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Infrastructure\obj\Debug\net9.0\refint\FinanceControl.Infrastructure.dll
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Infrastructure\obj\Debug\net9.0\FinanceControl.Infrastructure.pdb
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Infrastructure\obj\Debug\net9.0\FinanceControl.Infrastructure.genruntimeconfig.cache
+C:\Users\Mariana\source\repos\FinanceControl\FinanceControl.Infrastructure\obj\Debug\net9.0\ref\FinanceControl.Infrastructure.dll
