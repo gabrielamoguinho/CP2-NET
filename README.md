@@ -85,11 +85,12 @@ https://localhost:PORT/swagger
 ## 🧱 Estrutura do Projeto
 
 ```
-FinanceControl/
+StudyTracker/
 │
-├── FinanceControl.Domain          # Entidades e interfaces
-├── FinanceControl.Application     # Serviços e lógica de negócio
-├── FinanceControl.Infrastructure  # Acesso a dados, EF Core, contexto
-├── FinanceControl.API             # Web API (controllers, startup)
-└── FinanceControl.sln             # Solução
+├── StudyTracker.Domain          # Entidades e interfaces
+├── StudyTracker.Application     # Serviços e lógica de negócio
+├── StudyTracker.Infrastructure  # Acesso a dados, EF Core, contexto
+├── StudyTracker.API             # Web API (controllers, startup)
+└── StudyTracker.sln             # Solução
+
 ```
