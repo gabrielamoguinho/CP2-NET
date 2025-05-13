@@ -1,19 +1,20 @@
-# 💰 FinanceControl
+# 🎓 StudyTracker
 
-Sistema de controle financeiro pessoal, desenvolvido em .NET com arquitetura em camadas (Domain, Application, Infrastructure, API) e banco de dados Oracle. A API permite o gerenciamento de lançamentos financeiros (como receitas e despesas), com documentação via Swagger.
-
-
-## 📌 Descrição do Projeto
-> **Problema escolhido:**  
-> Muitas pessoas têm dificuldade em organizar suas finanças pessoais, perdendo o controle de despesas e receitas, o que pode comprometer o equilíbrio financeiro mensal.
-
-### 🎯 Solução proposta
-
-A aplicação **FinanceControl** resolve esse problema permitindo que o usuário registre seus lançamentos financeiros (despesas e receitas), consulte seu histórico e mantenha controle sobre suas movimentações. Com isso, promove maior organização e planejamento financeiro.
+Sistema de gerenciamento de atividades de estudo, desenvolvido em .NET com arquitetura em camadas (Domain, Application, Infrastructure, API) e banco de dados Oracle. A API permite o gerenciamento de sessões de estudo (como tarefas de leitura, revisão e prática), com documentação via Swagger.
 
 ---
 
-O **FinanceControl** utiliza as seguintes tecnologias:
+## 📌 Descrição do Projeto
+> **Problema escolhido:**  
+> Muitas pessoas têm dificuldades em organizar suas rotinas de estudo, esquecendo prazos, acumulando tarefas e perdendo eficiência no aprendizado.
+
+### 🎯 Solução proposta
+
+A aplicação **StudyTracker** ajuda os usuários a organizarem suas sessões de estudo de forma simples e eficiente. Permite registrar, consultar, atualizar e remover atividades de estudo, promovendo disciplina, foco e controle sobre o progresso acadêmico ou autodidata.
+
+---
+
+O **StudyTracker** utiliza as seguintes tecnologias:
 
 - .NET 9
 - Entity Framework Core
@@ -25,20 +26,21 @@ O **FinanceControl** utiliza as seguintes tecnologias:
 
 ## 📚 Rotas da API (endpoints)
 
-### 🔹 `GET /api/lancamentos`
-Lista todos os lançamentos registrados.
+### 🔹 `GET /api/sessoes`
+Lista todas as sessões de estudo cadastradas.
 
-### 🔹 `GET /api/lancamentos/{id}`
-Busca um lançamento específico por ID.
+### 🔹 `GET /api/sessoes/{id}`
+Busca uma sessão de estudo específica por ID.
 
-### 🔹 `POST /api/lancamentos`
-Cria um novo lançamento.
+### 🔹 `POST /api/sessoes`
+Cria uma nova sessão de estudo.
 ```json
 {
-  "descricao": "Salário",
-  "valor": 2500.00,
-  "data": "2025-05-01T00:00:00"
+  "titulo": "Revisão de Matemática",
+  "descricao": "Resolver exercícios sobre derivadas",
+  "data": "2025-05-12T14:00:00"
 }
+
 ```
 ### 🔹 `PUT /api/lancamentos/{id}`
 Atualiza os dados de um lançamento existente.
